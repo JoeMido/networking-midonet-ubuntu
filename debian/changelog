@@ -1,0 +1,5 @@
+networking-midonet (1:2014.2.3.1.1-1) trusty; urgency=medium
+
+  * Initial release.
+
+ -- Ryu Ishimoto <ryu@midokura.com>  Tue, 15 Sep 2015 20:41:39 +0000

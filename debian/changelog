@@ -1,3 +1,9 @@
+networking-midonet (1:2015.1.1.1.0-2) trusty; urgency=medium
+
+  * Added patch files for port security, ML2 and L3 service.
+
+ -- Ryu Ishimoto <ryu@midokura.com>  Mon, 05 Oct 2015 03:47:44 +0000
+
 networking-midonet (1:2015.1.1.1.0-1) trusty; urgency=medium
 
   * Initial release.

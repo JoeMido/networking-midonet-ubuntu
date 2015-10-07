@@ -1,3 +1,9 @@
+networking-midonet (1:2014.2.3.1.1-2) trusty; urgency=medium
+
+  * Add lbaas configuration patch.
+
+ -- Joe Mills <joe@midokura.com>  Wed, 10 Oct 2015 16:45:56 +0000
+
 networking-midonet (1:2014.2.3.1.1-1) trusty; urgency=medium
 
   * Initial release.
